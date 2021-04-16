@@ -1,0 +1,16 @@
+export const colors = [
+  { color: "#FF0000", id: "red" },
+  { color: "#F4FF00", id: "yellow" },
+  { color: "#01FF00", id: "green" },
+  { color: "#0002FF", id: "blue" },
+  { color: "#FFFFFF", id: "white" },
+  { color: "#fb00ff", id: "fiolet" },
+  { color: "#ffbc00", id: "orange" },
+  { color: "#940808", id: "brown" },
+  { color: "#09ffe3", id: "lblue" },
+  { color: "#000000", id: "black" },
+  { color: "#c6c4c7", id: "grey" },
+  { color: "#097738", id: "dgreen" },
+  { color: "#ffb8b8", id: "pink" },
+  { color: "#1b218c", id: "dblue" },
+];
